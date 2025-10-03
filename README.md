@@ -318,7 +318,7 @@
     <a href="https://wa.me/51930569195" target="_blank" class="whatsapp-link">💬 WhatsApp: +51 930 569 195</a>
 
     <p style="color: #aaa; font-size: 0.9rem; margin-top: 30px; text-align: center;">
-      Creado con ❤️ por AnthZz Berrocal • BerMatMods
+      Desarrollado por AnthZz Berrocal • BerMatMods
     </p>
   </div>
 
